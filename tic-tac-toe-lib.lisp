@@ -1,3 +1,10 @@
+; This file is part of Tic-Tac-Toe-in-Lisp Project. It is subject to the license
+; terms in the LICENSE file found in the top-level directory of this distribution
+; and at https://github.com/zaygraveyard/Tic-Tac-Toe-in-Lisp/raw/master/LICENSE.
+; No part of Tic-Tac-Toe-in-Lisp Project, including this file, may be copied,
+; modified, propagated, or distributed except according to the terms contained
+; in the LICENSE file.
+
 (defun all-equal (l x)
   (= (length (remove-if #'(lambda (a) (equal a x)) l)) 0))
 
