@@ -11,11 +11,13 @@ You can find the logic on [Google Drive][1].
 How to Run
 ----------
 
- *  ### On Windows
-    *Run* `run.bat clisp`
+ *  
+    ### On Windows
+    Run `run.bat clisp`
 
- *  ### On Mac OSX / OSX / Linux
-    *Run* `run.sh clisp`
+ *  
+    ### On Mac OSX / OSX / Linux
+    Run `run.sh clisp`
 
 Note on Patches/Pull Requests
 -----------------------------
