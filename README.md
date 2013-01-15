@@ -13,11 +13,11 @@ How to Run
 
  *  
     ### On Windows
-    Run `run.bat clisp`
+    Run `run.bat`
 
  *  
     ### On Mac OSX / OSX / Linux
-    Run `run.sh clisp`
+    Run `run.sh`
 
 Note on Patches/Pull Requests
 -----------------------------
